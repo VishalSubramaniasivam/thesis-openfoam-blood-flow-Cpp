@@ -36,4 +36,4 @@ This dictionary file like all other dictionary files must be must be present in 
 All other dictionary files must be must be present in the constants folder from where the simulation is run. They control important parameters such as boundary conditions, solver methods, descretization schemes, meshing method, simulation time and parallel computing.
 
 ## Contact
-Created by [@Vishal Subramaniasivam] (vishal.subramaniasivam.95@gmail.com) - feel free to contact me.
+Created by [@Vishal-Subramaniasivam] (vishal.subramaniasivam.95@gmail.com) - feel free to contact me.
